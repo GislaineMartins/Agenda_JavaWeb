@@ -1,0 +1,40 @@
+.TituloIndex
+{
+    font-size: 56px;
+    font-family: Arial; 
+    font-weight: bolder;
+    color: #0066ff;
+    letter-spacing: 5px;
+}
+
+.AlinhamentoTabela{
+    text-align: center;
+    color: #999999;
+    font-weight: bold;
+}
+
+
+.ExcluirContato{
+         font-size: 36px;
+    font-family: Arial; 
+    font-weight: bolder;
+    color: #ff0000;
+    text-align: center;
+     
+}
+
+.ExcluirContatoSelecao{
+         font-size: 36px;
+    font-family: Arial; 
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+     
+}
+
+.Menu{
+    letter-spacing: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #cc0000;
+}
